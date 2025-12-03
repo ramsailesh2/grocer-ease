@@ -1,0 +1,255 @@
+{
+  "products": [
+    {
+      "name": "Fresh Apples",
+      "category": "Fruits",
+      "price": 120,
+      "unit": "kg",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.FBaBaFt89fL-n-A_my1eSQHaE8?pid=Api&P=0&h=180",
+      "stock": 50,
+      "description": "Crisp and juicy red apples, perfect for snacking and salads.",
+      "id": "1"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "category": "Bakery",
+      "price": 40,
+      "unit": "loaf",
+      "image": "https://tse1.mm.bing.net/th/id/OIP._9hwJ8T_H8NPiZsajceRPQHaHa?pid=Api&P=0&h=180",
+      "stock": 30,
+      "description": "Soft and healthy whole wheat bread baked fresh daily.",
+      "id": "2"
+    },
+    {
+      "name": "Bananas",
+      "category": "Fruits",
+      "price": 60,
+      "unit": "dozen",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.YdPPvPrPBwuqdNu7RZ2orQHaHa?pid=Api&P=0&h=180",
+      "stock": 40,
+      "description": "Sweet ripe bananas, rich in potassium and energy.",
+      "id": "3"
+    },
+    {
+      "name": "Tomatoes",
+      "category": "Vegetables",
+      "price": 35,
+      "unit": "kg",
+      "image": "https://media.istockphoto.com/photos/packed-and-labeled-fresh-tomatoes-on-isolated-white-background-picture-id1364760973?k=20&m=1364760973&s=612x612&w=0&h=WqoY-xEtLfw-VfzqbSx2oR9JoN_qv0DRR1DuIzthbHo=",
+      "stock": 45,
+      "description": "Fresh red tomatoes ideal for curries, salads and sauces.",
+      "id": "4"
+    },
+    {
+      "name": "Potatoes",
+      "category": "Vegetables",
+      "price": 30,
+      "unit": "kg",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.AUTtLXkgfIxfl-QGjsDUCgHaJ4?pid=Api&P=0&h=180",
+      "stock": 80,
+      "description": "Farm-fresh potatoes suitable for frying, boiling and baking.",
+      "id": "5"
+    },
+    {
+      "name": "Onions",
+      "category": "Vegetables",
+      "price": 28,
+      "unit": "kg",
+      "image": "https://carusos.com.au/wp-content/uploads/2020/09/Brown-onion-pack-768x768.jpg",
+      "stock": 70,
+      "description": "Flavorful onions that enhance every Indian dish.",
+      "id": "6"
+    },
+    {
+      "name": "Toned Milk 1L",
+      "category": "Dairy",
+      "price": 55,
+      "unit": "pack",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.oN8ThH1wA4wOQo23qD_W6gHaHa?pid=Api&P=0&h=180",
+      "stock": 60,
+      "description": "Pasteurized toned milk, ideal for tea, coffee and drinking.",
+      "id": "7"
+    },
+    {
+      "name": "Farm Eggs (12 Pack)",
+      "category": "Dairy",
+      "price": 85,
+      "unit": "tray",
+      "image": "https://shop.countrygrocer.com.au/content/images/thumbs/0000524_farm-fresh-eggs-12-pack-700g_800.jpeg",
+      "stock": 35,
+      "description": "Fresh farm eggs, rich in protein and essential nutrients.",
+      "id": "8"
+    },
+    {
+      "name": "Basmati Rice 5kg",
+      "category": "Groceries",
+      "price": 520,
+      "unit": "bag",
+      "image": "https://laz-img-sg.alicdn.com/p/21ffb35aeb3f1eccbb347ba9faa0eff7.png",
+      "stock": 25,
+      "description": "Long-grain aromatic basmati rice for everyday cooking.",
+      "id": "9"
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "category": "Groceries",
+      "price": 150,
+      "unit": "bottle",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/9/PE/IY/DN/65816739/1l-freedom-refined-sunflower-oil-500x500.jpg",
+      "stock": 40,
+      "description": "Refined sunflower oil suitable for deep frying and cooking.",
+      "id": "10"
+    },
+    {
+      "name": "Orange Juice 1L",
+      "category": "Beverages",
+      "price": 110,
+      "unit": "carton",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.7ibbvrKMCqNFh3lXYlXaigHaHa?pid=Api&P=0&h=180",
+      "stock": 20,
+      "description": "Refreshing orange juice with real fruit pulp.",
+      "id": "11"
+    },
+    {
+      "name": "Green Tea (50 Bags)",
+      "category": "Beverages",
+      "price": 140,
+      "unit": "box",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.KXCUH8R9RiOEn9l98AZ6xQHaHa?pid=Api&P=0&h=180",
+      "stock": 25,
+      "description": "Antioxidant-rich green tea bags for a healthy lifestyle.",
+      "id": "12"
+    },
+    {
+      "name": "Salted Butter 500g",
+      "category": "Dairy",
+      "price": 260,
+      "unit": "pack",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.ZxCFwVcwVoxNRks1bBzvDwHaHa?pid=Api&P=0&h=180",
+      "stock": 18,
+      "description": "Creamy salted butter perfect for spreading and baking.",
+      "id": "13"
+    },
+    {
+      "name": "Cheese Slices (10 pcs)",
+      "category": "Dairy",
+      "price": 170,
+      "unit": "pack",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.h5aUkmIGdr0klEQX7T50MQHaHa?pid=Api&P=0&h=180",
+      "stock": 22,
+      "description": "Processed cheese slices for sandwiches and burgers.",
+      "id": "14"
+    },
+    {
+      "name": "Detergent Powder 1kg",
+      "category": "Household",
+      "price": 95,
+      "unit": "pack",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.VfE3Z6ratI6wKEdMWi0djAHaHa?pid=Api&P=0&h=180",
+      "stock": 40,
+      "description": "Effective detergent powder for bright and clean clothes.",
+      "id": "15"
+    },
+    {
+      "name": "Dishwashing Liquid 500ml",
+      "category": "Household",
+      "price": 75,
+      "unit": "bottle",
+      "image": "https://driftbasket.com/wp-content/uploads/2018/10/Vim-Dishwashing-Liquid-Gel-Lemon-500ml-k.jpg",
+      "stock": 30,
+      "description": "Lemon-scented dishwashing liquid that removes tough grease.",
+      "id": "16"
+    },
+    {
+      "id": "17",
+      "name": "Lay's Classic Chips",
+      "category": "Snacks",
+      "price": 20,
+      "unit": "pack",
+      "image": "https://www.lays.com/sites/lays.com/files/2019-09/Classic.png",
+      "stock": 100,
+      "description": "Crispy salted potato chips for quick hunger."
+    },
+    {
+      "id": "18",
+      "name": "Kurkure Masala Munch",
+      "category": "Snacks",
+      "price": 20,
+      "unit": "packet",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.MyKaoQfvWEIVGxuk1Bp2_QHaHa?pid=Api&P=0&h=180",
+      "stock": 80,
+      "description": "Spicy crunchy snack with bold Indian flavor."
+    },
+    {
+      "id": "19",
+      "name": "Hide & Seek Biscuits",
+      "category": "Snacks",
+      "price": 35,
+      "unit": "pack",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.XOLdnsSw2RoSn0KiNpe4BQHaE8?pid=Api&P=0&h=180",
+      "stock": 70,
+      "description": "Chocolate chip biscuits for sweet cravings."
+    },
+    {
+      "id": "20",
+      "name": "Good Day Butter Cookies",
+      "category": "Snacks",
+      "price": 30,
+      "unit": "pack",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Ltd2iAQmkdZSgGQpZnDqtwHaHw?pid=Api&P=0&h=180",
+      "stock": 90,
+      "description": "Delicious crunchy butter cookies."
+    },
+    {
+      "id": "21",
+      "name": "Colgate Toothpaste",
+      "category": "Personal Care",
+      "price": 95,
+      "unit": "tube",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.UE5pJqY9TOixkW8VxMXt1AHaHa?pid=Api&P=0&h=180",
+      "stock": 60,
+      "description": "Strong teeth protection and fresh breath."
+    },
+    {
+      "id": "22",
+      "name": "Clinic Plus Shampoo",
+      "category": "Personal Care",
+      "price": 180,
+      "unit": "bottle",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.8-xrc9CK8RXv9Appi2JCJQHaHa?pid=Api&P=0&h=180",
+      "stock": 40,
+      "description": "Hair nourishment and damage repair shampoo."
+    },
+    {
+      "id": "23",
+      "name": "Dove Soap",
+      "category": "Personal Care",
+      "price": 60,
+      "unit": "bar",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.3f8h7uW6UPY4NXMwXGRXAgHaHa?pid=Api&P=0&h=180",
+      "stock": 70,
+      "description": "Moisturizing soap for soft skin."
+    },
+    {
+      "id": "24",
+      "name": "Nivea Body Lotion",
+      "category": "Personal Care",
+      "price": 210,
+      "unit": "bottle",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.YA1kvlK71PlM55Xzpb3uFwHaHa?pid=Api&P=0&h=180",
+      "stock": 35,
+      "description": "24-hour moisture nourishing lotion."
+    },
+    {
+      "id": "25",
+      "name": "Dettol Handwash",
+      "category": "Personal Care",
+      "price": 99,
+      "unit": "bottle",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.TmxNvHDl1pohdO9a6_Vd9QHaHa?pid=Api&P=0&h=180",
+      "stock": 55,
+      "description": "Kills 99.9% germs and safe hand hygiene."
+    }
+  ],
+  "cart": []
+}
