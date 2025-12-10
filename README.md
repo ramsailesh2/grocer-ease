@@ -181,3 +181,9 @@ On every visit to the home page, eight products are randomly selected from the p
 
 ---
 
+## Demonstration videos
+### UI - https://drive.google.com/file/d/1eG5bNIVMJCEgfhYaL-ybl6mZlEvWNpyl/view?usp=drivesdk
+### Code - https://drive.google.com/file/d/1YD6L0L141T2YeFzSArrMhPqQNdqK8AG_/view?usp=drivesdk
+
+
+
